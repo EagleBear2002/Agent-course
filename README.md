@@ -23,7 +23,7 @@
 1.  python 库：https://github.com/QwenLM/Qwen-Agent
 2.  调用模型的设置可以参考如下：
 
-```json
+```
 'model': 'Qwen2.5-14B',
 'model_server': 'http://10.58.0.2:8000/v1', ;
 'api_key': 'None',
